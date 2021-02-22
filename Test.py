@@ -3,4 +3,4 @@ print(a)
 b=21
 print(b)
 
-print(b)
+print(a
